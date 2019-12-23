@@ -1,3 +1,3 @@
 # Dengue-Virus-Serotype
 
-This repository contains programs that map the variants (DENV1 and DENV4) to the mature peptide coding regions given in genebank file and check if a mutation results into amino acid change (non-synonymous mutation)
+This repository contains programs that map the variants to the mature peptide coding regions of DENV1 and DENV4 given in genebank file and checks if a mutation results to an amino acid change (non-synonymous mutation).
